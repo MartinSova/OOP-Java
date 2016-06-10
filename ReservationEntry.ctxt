@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=reservationID\ bagID\ reservationPrice\ numberReserved
+comment0.target=ReservationEntry(int,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getBagID()
+comment2.params=newID
+comment2.target=void\ setBagID(java.lang.String)
+comment3.params=
+comment3.target=int\ getReservationPrice()
+comment4.params=newPrice
+comment4.target=void\ setReservationPrice(int)
+comment5.params=
+comment5.target=int\ getReservationID()
+comment6.params=
+comment6.target=int\ getNumberReserved()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ReservationNumberNotRecognisedException()
+comment0.text=\n\ Constructs\ an\ instance\ of\ the\ exception\ with\ no\ message\n
+comment1.params=message
+comment1.target=ReservationNumberNotRecognisedException(java.lang.String)
+comment1.text=\n\ Constructs\ an\ instance\ of\ the\ exception\ containing\ the\ message\ argument\n\ \n\ @param\ message\ \ \ message\ containing\ details\ regarding\ the\ exception\ cause\n
+numComments=2
